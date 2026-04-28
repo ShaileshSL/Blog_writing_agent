@@ -13,7 +13,7 @@ import pandas as pd
 import streamlit as st
 
 # -----------------------------
-# Import your compiled LangGraph app
+# Imported LangGraph app
 # -----------------------------
 from bwa_backend import app
 
